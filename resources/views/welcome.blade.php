@@ -1,4 +1,4 @@
 <x-layout>
-    hello world 
+    something okay okay!
 
 </x-layout>
